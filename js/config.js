@@ -7,7 +7,7 @@ let config = {
   showDelay: 1.5, 
 
   // Заголовок
-  title: 'cursedplayer',
+  title: 'JUSCOWAT',
 
   // Социальные сети
   social: {
@@ -34,7 +34,7 @@ let config = {
 
 
   // Текст копирайта
-  copyrightText: 'dev - cursedplayer',
+  copyrightText: 'dev - JUSCOWAT',
   // Цвет копирайта
   copyrightTextColor: '#f5323c',
 
